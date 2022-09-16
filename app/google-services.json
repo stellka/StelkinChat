@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18913063705",
+    "firebase_url": "https://my-chat-daec1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-chat-daec1",
+    "storage_bucket": "my-chat-daec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18913063705:android:38538bdc2f05f551facb88",
+        "android_client_info": {
+          "package_name": "edu.skillbox.stelkinchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18913063705-hr02t5f9cv7b1l277fcqhn5f8socg813.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.skillbox.stelkinchat",
+            "certificate_hash": "a04abe744ae275b10bf131f151b446deccc44aa0"
+          }
+        },
+        {
+          "client_id": "18913063705-1hgrjfskke259oqvi00s1vcj0t5fgot9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hHxSP61z5LYyJdveTerM-gPdXBz-E1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18913063705-1hgrjfskke259oqvi00s1vcj0t5fgot9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
